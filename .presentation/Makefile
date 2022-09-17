@@ -1,6 +1,6 @@
 SRC = presentation.md
-FILES += $(patsubst %.md, %.pdf, $(wildcard *.md))
-FILES += $(patsubst %.md, %.html, $(wildcard *.md))
+FILES += $(patsubst %.md, %.pdf, $(wildcard presentation*.md))
+# FILES += $(patsubst %.md, %.html, $(wildcard presentation*.md))
 
 FILTERS =
 PDF_ENGINE =
@@ -17,8 +17,8 @@ REVEALJS_THEME = beige
 %.pdf: %.md
 	-@pandoc "$<" $(FILTERS) $(PDF_ENGINE) $(PDF_OPTIONS) $(PDF_FORMAT_OPTIONS) -o "$@"
 
-%.html: %.md
-	-@pandoc "$<" --self-contained -t revealjs -V theme=$(REVEALJS_THEME) -o "$@"
+# %.html: %.md
+#	-@pandoc "$<" --self-contained -t revealjs -V theme=$(REVEALJS_THEME) -o "$@"
 
 all: $(FILES)
 

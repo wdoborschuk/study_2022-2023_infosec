@@ -1,5 +1,5 @@
-FILES = $(patsubst %.md, %.docx, $(wildcard *.md))
-FILES += $(patsubst %.md, %.pdf, $(wildcard *.md))
+FILES = $(patsubst %.md, %.docx, $(wildcard report*.md))
+FILES += $(patsubst %.md, %.pdf, $(wildcard report*.md))
 
 FILTERS =
 OPTIONS =
