@@ -3,6 +3,7 @@
 - [x] Лабораторная работа №1. Шифры простой замены
 
 Скринкаст выполнения: [https://youtu.be/PPLjMH7zZOg](https://youtu.be/PPLjMH7zZOg)
+
 Скринкаст презентации: [https://youtu.be/rZeq0rJ9n5I](https://youtu.be/rZeq0rJ9n5I)
 
 - [ ] Лабораторная работа №2. Шифры перестановки
