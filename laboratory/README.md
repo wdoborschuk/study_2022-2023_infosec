@@ -3,7 +3,10 @@
 - [x] Лабораторная работа №1. Шифры простой замены
   - Скринкаст выполнения: [https://youtu.be/PPLjMH7zZOg](https://youtu.be/PPLjMH7zZOg)
   - Скринкаст презентации: [https://youtu.be/rZeq0rJ9n5I](https://youtu.be/rZeq0rJ9n5I)
-- [ ] Лабораторная работа №2. Шифры перестановки
+- [x] Лабораторная работа №2. Шифры перестановки
+  - Скринкаст выполнения (без звука): [https://www.youtube.com/watch?v=dbOEIN0RGtc](https://www.youtube.com/watch?v=dbOEIN0RGtc)
+  - Скринкаст выполнения (со звуком): [https://www.youtube.com/watch?v=dAhHGvdlYSI](https://www.youtube.com/watch?v=dAhHGvdlYSI)
+  - Скринкаст презентации: [https://www.youtube.com/watch?v=iIvw9dsfjp4](https://www.youtube.com/watch?v=iIvw9dsfjp4)
 - [ ] Лабораторная работа №3. Шифрование гаммированием
 - [ ] Лабораторная работа №4. Вычисление наибольшего общего делителя
 - [ ] Лабораторная работа №5. Вероятностные алгоритмы проверки чисел на простоту
