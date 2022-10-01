@@ -192,3 +192,4 @@ cython_debug/
 *.code-workspace
 
 *.zip
+drafts/
