@@ -7,7 +7,9 @@
   - Скринкаст выполнения (без звука): [https://www.youtube.com/watch?v=dbOEIN0RGtc](https://www.youtube.com/watch?v=dbOEIN0RGtc)
   - Скринкаст выполнения (со звуком): [https://www.youtube.com/watch?v=dAhHGvdlYSI](https://www.youtube.com/watch?v=dAhHGvdlYSI)
   - Скринкаст презентации: [https://www.youtube.com/watch?v=iIvw9dsfjp4](https://www.youtube.com/watch?v=iIvw9dsfjp4)
-- [ ] Лабораторная работа №3. Шифрование гаммированием
+- [x] Лабораторная работа №3. Шифрование гаммированием
+  - Скринкаст выполнения: [https://youtu.be/nNdXbVJZI7g](https://youtu.be/nNdXbVJZI7g)
+  - Скринкаст презентации: [https://youtu.be/c0G7Yudi_Js](https://youtu.be/c0G7Yudi_Js)
 - [ ] Лабораторная работа №4. Вычисление наибольшего общего делителя
 - [ ] Лабораторная работа №5. Вероятностные алгоритмы проверки чисел на простоту
 - [ ] Лабораторная работа №6. Разложение чисел на множители

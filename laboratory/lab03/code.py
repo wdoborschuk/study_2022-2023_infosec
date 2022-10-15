@@ -1,3 +1,7 @@
+# Laboratory Work
+# Theme: Gamma encryption
+# Author: Vladimir Doborschuk
+
 # --- Modules ---
 
 import numpy as np
@@ -14,7 +18,7 @@ def get_alphabet(option="eng"):
 # Gamma Encryption
 def gamma_encryption(message: str, gamma: str):
     alphabet = get_alphabet()
-    if message.lower() not in alphabet:
+    if message[0].lower() not in alphabet:
         alphabet = get_alphabet("rus")
     
     print(alphabet)
