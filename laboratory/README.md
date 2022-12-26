@@ -1,21 +1,12 @@
 # Чек-лист выполнения лабораторных
 
+Ссылка на плейлист со скринкастами: https://www.youtube.com/playlist?list=PLHQzk38SobjdJvVpCxbV5oia7mzghJTOt
+
 - [x] Лабораторная работа №1. Шифры простой замены
-  - Скринкаст выполнения: [https://youtu.be/PPLjMH7zZOg](https://youtu.be/PPLjMH7zZOg)
-  - Скринкаст презентации: [https://youtu.be/rZeq0rJ9n5I](https://youtu.be/rZeq0rJ9n5I)
 - [x] Лабораторная работа №2. Шифры перестановки
-  - Скринкаст выполнения (без звука): [https://www.youtube.com/watch?v=dbOEIN0RGtc](https://www.youtube.com/watch?v=dbOEIN0RGtc)
-  - Скринкаст выполнения (со звуком): [https://www.youtube.com/watch?v=dAhHGvdlYSI](https://www.youtube.com/watch?v=dAhHGvdlYSI)
-  - Скринкаст презентации: [https://www.youtube.com/watch?v=iIvw9dsfjp4](https://www.youtube.com/watch?v=iIvw9dsfjp4)
 - [x] Лабораторная работа №3. Шифрование гаммированием
-  - Скринкаст выполнения: [https://youtu.be/nNdXbVJZI7g](https://youtu.be/nNdXbVJZI7g)
-  - Скринкаст презентации: [https://youtu.be/c0G7Yudi_Js](https://youtu.be/c0G7Yudi_Js)
 - [x] Лабораторная работа №4. Вычисление наибольшего общего делителя
-  - Скринкаст выполнения: [https://youtu.be/d8A9iJOY6jE](https://youtu.be/d8A9iJOY6jE)
-  - Скринкаст презентации: [https://youtu.be/nWGKvFaW95Q](https://youtu.be/nWGKvFaW95Q)
 - [x] Лабораторная работа №5. Вероятностные алгоритмы проверки чисел на простоту
-  - Скринкаст выполнения: [https://youtu.be/IwslJdTHw5c](https://youtu.be/IwslJdTHw5c)
-  - Скринкаст презентации: [https://youtu.be/HHwX8Y0LTWU](https://youtu.be/HHwX8Y0LTWU)
-- [ ] Лабораторная работа №6. Разложение чисел на множители
-- [ ] Лабораторная работа №7. Дискретное логарифмирование в конечном поле
-- [ ] Лабораторная работа №8. Целочисленная арифметика многократной точности
+- [x] Лабораторная работа №6. Разложение чисел на множители
+- [x] Лабораторная работа №7. Дискретное логарифмирование в конечном поле
+- [x] Лабораторная работа №8. Целочисленная арифметика многократной точности
